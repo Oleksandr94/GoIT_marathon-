@@ -1,0 +1,38 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E5E5E5;
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: white;
+    margin: 40px auto;
+}
+
+.about-me-profecion {
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+}
+
+.about-me-section {
+
+}
+
+
+.my-projects-section {
+
+}
+
+.my-work-experience {
+
+}
+
+.my-education-sections {
+}
+
+.sidebar-sections {
+    background-color: #1E2939;
+}
