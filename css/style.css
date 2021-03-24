@@ -17,13 +17,83 @@ body {
     color: #000;
 }
 
-.about-me-section {
-
+.main-content-sections {
+    padding: 100px 90px;
 }
 
+.main-content-titl{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px
+}
 
+/* About me section */
+
+.about-me-section {
+    margin: 0 0 40px 0;
+}
+
+.about-me-profecion {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin: 0 0 20px 0
+}
+
+.about-me-name {
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000;
+    margin: 0 0 25px 0
+}
+
+.about-me-description {
+    width: 400px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+/* My projects section */
 .my-projects-section {
 
+}
+.my-project-list {
+    padding: 0 0 0 17px;
+}
+
+.my-projects-item {
+    color: #000;
+    font-weight: bold;
+}
+.my-projects-link {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.my-projects-text {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 5px;
+}
+
+.my-projects-braket {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000;
 }
 
 .my-work-experience {
